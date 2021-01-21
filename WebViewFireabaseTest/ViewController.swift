@@ -42,7 +42,7 @@ class ViewController: UIViewController, WKNavigationDelegate {
         webView.navigationDelegate = self
         
 
-
+//むりぽ
         
         
     }
