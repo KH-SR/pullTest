@@ -42,8 +42,11 @@ class ViewController: UIViewController, WKNavigationDelegate {
         webView.navigationDelegate = self
         
 
+
+
 //むりぽ
         
+
         
     }
     //ロードが開始された時
