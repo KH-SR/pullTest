@@ -41,7 +41,7 @@ class ViewController: UIViewController, WKNavigationDelegate {
         
         webView.navigationDelegate = self
         
-
+print("プルリクエスト")
 
         
         
