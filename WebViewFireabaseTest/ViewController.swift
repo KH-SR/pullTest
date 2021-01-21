@@ -43,7 +43,10 @@ class ViewController: UIViewController, WKNavigationDelegate {
         
 
 
-        //もうわからんyone
+
+//むりぽ
+        
+
         
     }
     //ロードが開始された時
